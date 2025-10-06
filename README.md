@@ -33,7 +33,10 @@ Avant d’exécuter le script, assure-toi que :
 
 ## Executer le Script
 
+```bash
+
 sudo python3 deploiement.py
+'''
 
 
  
